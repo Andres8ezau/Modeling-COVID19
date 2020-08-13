@@ -1,2 +1,2 @@
-# Clubes-de-ciencia-challenge-
-esta es una plantilla para pagina web de clubes challenge 2020
+# Repositorio de la pagina 
+Este es un repositorio de la pagina para el CdeCMxChallenge2020
